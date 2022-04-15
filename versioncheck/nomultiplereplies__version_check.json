@@ -1,0 +1,20 @@
+{
+    "stable": {
+        "1.0": {
+            "current": "1.0.2",
+            "download": "http://www.phpbb-italia.it/database-extension-3-1-x/no-mulitiple-replies-t3168.html#p11342",
+            "announcement": "",
+            "eol": null,
+            "security": false
+        }
+    },
+    "unstable": {
+        "1.0": {
+            "current": "1.0.0",
+            "download": "",
+            "announcement": "",
+            "eol": null,
+            "security": false
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "stable": {
+        "1.0": {
+            "current": "1.0.2",
+            "download": "http://phpbb-italia.it/titolo-del-topic-in-rosso-per-nuovi-messaggi-t2971.html#p10322",
+            "announcement": "",
+            "eol": null,
+            "security": false
+        }
+    },
+    "unstable": {
+        "1.0": {
+            "current": "1.0.0",
+            "download": "",
+            "announcement": "",
+            "eol": null,
+            "security": false
+        }
+    }
+}

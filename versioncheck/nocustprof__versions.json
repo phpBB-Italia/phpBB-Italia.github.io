@@ -1,0 +1,20 @@
+{
+    "stable": {
+        "1.0": {
+            "current": "1.0.2",
+            "download": "http://phpbb-italia.it/nascondere-campi-profilo-personalizzati-agli-ospiti-t2912.html",
+            "announcement": "",
+            "eol": null,
+            "security": false
+        }
+    },
+    "unstable": {
+        "1.0": {
+            "current": "1.0.0",
+            "download": "",
+            "announcement": "",
+            "eol": null,
+            "security": false
+        }
+    }
+}

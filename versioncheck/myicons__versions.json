@@ -1,0 +1,20 @@
+{
+    "stable": {
+        "1.0": {
+            "current": "1.0.4",
+            "download": "http://www.phpbb-italia.it/database-extension-3-1-x/icone-di-bluesilver-su-prosilver-t2874.html",
+            "announcement": "http://www.phpbb-italia.it/database-extension-3-1-x/icone-di-bluesilver-su-prosilver-t2874.html#p11495",
+            "eol": null,
+            "security": false
+        }
+    },
+    "unstable": {
+        "1.0": {
+            "current": "1.0.0",
+            "download": "",
+            "announcement": "",
+            "eol": null,
+            "security": false
+        }
+    }
+}

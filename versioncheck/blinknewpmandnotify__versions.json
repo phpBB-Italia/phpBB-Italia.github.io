@@ -1,0 +1,20 @@
+{
+    "stable": {
+        "1.0": {
+            "current": "1.0.3",
+            "download": "http://phpbb-store.it/contatore-lampeggiante-per-nuovi-mp-e-nuove-notifiche-t2967.html#p10289",
+            "announcement": "",
+            "eol": null,
+            "security": false
+        }
+    },
+    "unstable": {
+        "1.0": {
+            "current": "1.0.0",
+            "download": "",
+            "announcement": "",
+            "eol": null,
+            "security": false
+        }
+    }
+}
